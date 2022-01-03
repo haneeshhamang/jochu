@@ -1,4 +1,4 @@
-var a=prompt("Enter UserName");
+var a=prompt("Enter Name");
   	if(a== "jochu")
   	{
   	    window.location.href="start.html";
